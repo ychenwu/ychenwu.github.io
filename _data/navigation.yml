@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/files/CV_Yuchen Wu.pdf"
 
   - title: "News"
     url: "/#-news"
