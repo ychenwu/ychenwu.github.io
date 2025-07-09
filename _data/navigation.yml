@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "CV"
     url: "/files/CV_Yuchen.pdf"
-
-  - title: "News"
-    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
@@ -15,5 +12,5 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Conference Presentations"
     url: "/#-invited-talks"
