@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 Welcome to my website! My name is Yuchen Wu, and I am currently a Ph.D. candidate in Macromolecular Science and Engineering at the University of Michigan. My research focuses on surface and interface chemistry, polymer adhesives, thin-film deposition, and lithium batteries. I have over nine years of experience in materials formulation design and material characterization, as well as extensive hands-on experience working in cleanroom environments. A major highlight of my work is developing and applying advanced analytical tools to non-destructively probe surfaces and buried interfaces—areas that are typically difficult to access. I have collaborated with several companies to tackle real-world industrial challenges. The projects I am working on are shown below.
 
 [**Main Project**]
