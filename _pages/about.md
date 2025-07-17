@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Yuchen Wu, and I am currently a Ph.D. candidate in Macromolecular Science and Engineering at the University of Michigan. My research focuses on surface and interface chemistry, polymer adhesives, thin-film deposition, and lithium batteries. I have over nine years of experience in materials formulation design and material characterization, as well as extensive hands-on experience working in cleanroom environments. A major highlight of my work is developing and applying advanced analytical tools to non-destructively probe surfaces and buried interfaces—areas that are typically difficult to access. I have collaborated with several companies to tackle real-world industrial challenges. The projects I am working on are shown below.
+Welcome to my website! My name is Yuchen Wu, and I am currently a Ph.D. candidate in Macromolecular Science and Engineering at the University of Michigan. My research focuses on surface and interface chemistry, polymer adhesives, thin-film deposition, and lithium batteries. I have over nine years of experience in materials formulation design and material characterization, as well as extensive hands-on experience working in the cleanroom. A major highlight of my work is developing and applying advanced analytical tools to non-destructively probe surfaces and buried interfaces—areas that are typically difficult to access. I have collaborated with several companies to tackle real-world industrial challenges. The projects I am working on are shown below.
 
-[**Main Project**]
+[**Main Projects**]
 - Investigated the working mechanisms of additives (silica fillers, silanes) in high-temperature vulcanized (HTV) silicone adhesives. (Dow)
 - Studied the environmental effects on the performance of room-temperature vulcanized (RTV) silicone adhesives. (Dow)
 - Developed a rapid 2-minute inhibitor deposition method to form ODPA self-assembled monolayers (SAMs) on copper-coated wafers for selective ALD. (BASF)
